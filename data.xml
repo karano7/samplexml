@@ -1,0 +1,145 @@
+<root>
+<imaging>
+<element>
+<location>Main Hospital Radiology</location>
+<name>Chest X-Ray</name>
+<time>Today</time>
+</element>
+<element>
+<location>Main Hospital Radiology</location>
+<name>Chest X-Ray</name>
+<time>Today</time>
+</element>
+<element>
+<location>Main Hospital Radiology</location>
+<name>Chest X-Ray</name>
+<time>Today</time>
+</element>
+</imaging>
+<labs>
+<element>
+<location>Main Hospital Lab</location>
+<name>Arterial Blood Gas</name>
+<time>Today</time>
+</element>
+<element>
+</element>
+<element>
+<location>Primary Care Clinic</location>
+<name>BNP</name>
+<time>3 Weeks</time>
+</element>
+<element>
+<location>Primary Care Clinic</location>
+<name>BUN</name>
+<time>1 Year</time>
+</element>
+<element>
+<location>Primary Care Clinic</location>
+<name>Cardiac Enzymes</name>
+<time>Today</time>
+</element>
+<element>
+</element>
+<element>
+<location>Main Hospital Lab</location>
+<name>Creatinine</name>
+<time>1 Year</time>
+</element>
+<element>
+<location>Primary Care Clinic</location>
+<name>Electrolyte Panel</name>
+<time>1 Year</time>
+</element>
+<element>
+<location>Main Hospital Lab</location>
+<name>Glucose</name>
+<time>1 Year</time>
+</element>
+<element>
+<location>Primary Care Clinic</location>
+<name>PT/INR</name>
+<time>3 Weeks</time>
+</element>
+<element>
+<location>Coumadin Clinic</location>
+<name>PTT</name>
+<time>3 Weeks</time>
+</element>
+<element>
+<location>Primary Care Clinic</location>
+<name>TSH</name>
+<time>1 Year</time>
+</element>
+</labs>
+<medications>
+<element>
+<aceInhibitors>
+<element>
+<dose>1 tab</dose>
+<name>lisinopril</name>
+<pillCount>#90</pillCount>
+<refills>Refill 3</refills>
+<route>PO</route>
+<sig>daily</sig>
+<strength>10 mg Tab</strength>
+</element>
+</aceInhibitors>
+<antianginal>
+<element>
+<dose>1 tab</dose>
+<name>nitroglycerin</name>
+<pillCount>#30</pillCount>
+<refills>Refill 1</refills>
+<route>SL</route>
+<sig>q15min PRN</sig>
+<strength>0.4 mg Sublingual Tab</strength>
+</element>
+</antianginal>
+<anticoagulants>
+<element>
+<dose>1 tab</dose>
+<name>warfarin sodium</name>
+<pillCount>#90</pillCount>
+<refills>Refill 3</refills>
+<route>PO</route>
+<sig>daily</sig>
+<strength>3 mg Tab</strength>
+</element>
+</anticoagulants>
+<betaBlocker>
+<element>
+<dose>1 tab</dose>
+<name>metoprolol tartrate</name>
+<pillCount>#90</pillCount>
+<refills>Refill 3</refills>
+<route>PO</route>
+<sig>daily</sig>
+<strength>25 mg Tab</strength>
+</element>
+</betaBlocker>
+<diuretic>
+<element>
+<dose>1 tab</dose>
+<name>furosemide</name>
+<pillCount>#90</pillCount>
+<refills>Refill 3</refills>
+<route>PO</route>
+<sig>daily</sig>
+<strength>40 mg Tab</strength>
+</element>
+</diuretic>
+<mineral>
+<element>
+<dose>1 tab</dose>
+<name>potassium chloride ER</name>
+<pillCount>#90</pillCount>
+<refills>Refill 3</refills>
+<route>PO</route>
+<sig>daily</sig>
+<strength>10 mEq Tab</strength>
+</element>
+</mineral>
+</element>
+</medications>
+</root>
